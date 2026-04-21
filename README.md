@@ -1,5 +1,13 @@
 # ASmap Competency Test – Analysis
 
+# ASmap Competency Test – Analysis
+
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
+![Project](https://img.shields.io/badge/project-ASmap-blue)
+![Program](https://img.shields.io/badge/program-Summer%20of%20Bitcoin-orange)
+![Language](https://img.shields.io/badge/language-Python-yellow)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 ##  Overview
 This project is part of the ASmap competency test for the Summer of Bitcoin program.
 
