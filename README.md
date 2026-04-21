@@ -67,10 +67,10 @@ The goal was to:
 
 ##  Project Structure
 
-asmap-analysis/
-├── asmap-data/
-├── asmap-kartograf/
-└── README.md
+asmap-analysis
+    ├── asmap-data/
+    ├── asmap-kartograf/
+    └── README.md
 
 
 ---
