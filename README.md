@@ -65,16 +65,6 @@ The goal was to:
 
 ---
 
-##  Project Structure
-
-asmap-analysis
-    ├── asmap-data/
-    ├── asmap-kartograf/
-    └── README.md
-
-
----
-
 ##  Conclusion
 
 This exercise helped in understanding how ASmaps evolve over time and how they impact peer selection in Bitcoin nodes. It also highlighted the need for better tooling and analysis methods for collaborative improvements.
